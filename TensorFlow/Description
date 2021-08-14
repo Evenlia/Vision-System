@@ -1,0 +1,3 @@
+Contains: 
+Pipeline config used during training of the model
+Models which are able to detect object and boxes
